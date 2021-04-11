@@ -1,0 +1,60 @@
+what is kernel?
+what is shell?
+what is shell scripting?
+type os shells?
+starting a shell?
+how to run a shell script?
+
+what is kernel?
+linux kernel
+there is every kernel in linux distribution and unix distribution
+what is kernel?
+it is an interface between hardware and software
+kernel is a program that store inside your operating system
+it is program or command that keep on running
+it takes the commands from the shell
+shell in unix or linux is call terminal
+commands are forwarded to the kernel to execute
+then kernel talks to the hardware
+combination of shell and kernel is called operating system
+shell in linux or unix  is return in c programming language
+
+Introduction to shell
+
+what is shell?
+shell is like a container which hold your information inside of it
+interface between user and kernel os
+cli is shell
+
+to find out which shell your then command is
+# echo $0
+
+to find out how many shell are there then command is
+# cat /etc/shells
+
+in window gui is a shell
+in linux kde is a shell
+linxus sh bash is a shell
+
+What is shell script?
+put all your instructions in a shell and run it
+instructions means do this or do that or else do that etc
+By default shell run all the instruction in sequence
+
+different type of shell
+gnome like a gui in linux operating system or kde like a gui in linux operating system
+command line shell or
+sh
+bash
+csh
+tcsh
+ksh (kone shell) it is use in solaris systems
+
+starting the shell
+just type the shell name on the interface
+# sh this will switch to sh shell
+# bash this will switch to bash shell
+
+
+
+
