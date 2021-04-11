@@ -9,7 +9,7 @@ l=ls
 wi=whoami
 d=date
 c='cal 2021'
-echo $p
-echo $l
-echo $wi
-echo $c
+$p
+$l
+$wi
+$c
