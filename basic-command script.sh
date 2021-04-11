@@ -12,9 +12,9 @@ date
 echo
 touch sayeed rayan rayan
 echo
-ll -lart
+ls -lart
 echo
-calc
+cal
 echo
 whoami
 echo
